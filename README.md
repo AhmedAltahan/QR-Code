@@ -6,7 +6,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://ahmedaltahan.github.io/QR-Code/)
+- Live Site URL: [https://ahmedaltahan.github.io/QR-Code/]()
 
 
 ### Built with
